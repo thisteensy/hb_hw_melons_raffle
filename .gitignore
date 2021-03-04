@@ -2,3 +2,4 @@ env
 customers.txt
 version2/customers.py
 __pycache__/raffle.cpython-36.pyc
+version2/__pycache__/
